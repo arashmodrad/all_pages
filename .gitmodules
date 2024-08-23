@@ -1,0 +1,9 @@
+[submodule "page_1"]
+	path = page_1
+	url = https://github.com/arashmodrad/page_1.git
+[submodule "page_2"]
+	path = page_2
+	url = https://github.com/arashmodrad/page_2.git
+[submodule "page_3"]
+	path = page_3
+	url = https://github.com/arashmodrad/page_3.git
